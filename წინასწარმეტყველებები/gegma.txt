@@ -18,12 +18,17 @@
 აი მთავარი. მოძრაობა და მოძრაობა. უნდა იბანაო დაიჭრა ფრჩხილები და შეუდგე გეგმის შესრულებასს. :)
 
 მოკლედ რაღაცეები შეიცვალა. საჭიროა ინტერნეტის ჩაჭრა. და დღის გეგმის შესრულება. მუშაობა და ხატვა და გრაფიკის შედგენა. რომელსაც შევადგენთ დღეს და წყნარად მივყვებით.
-ორშაბათი : პროგრამირება
-სამშაბათი : პროგრამირება 
-ოთხშაბათი : პროგრამირება
-ხუთშაბათი : ხატვა
-პარასკევი : ხატვა კომპიუტერში
-შაბათი : ხატვა (ორივე) 
+ორშაბათი : პროგრამირება(pitoni) (avawyo saiti sadac iqneba chemi tamashebi)
+სამშაბათი : პროგრამირება (pitoni) (roca damugamebuli meqneba saitebi - gavuketo saiti levani joxebs)
+ოთხშაბათი : პროგრამირება(pitoni) (3 tve wesierad unda moviqce = megobrebi)
+ხუთშაბათი : arduino (mamikos davexmarebi)
+პარასკევი : arduino (chems tavs davexmarebi - avawyo naturebis chartvis sistema planebistvis = shemdeg sezonze kai mosavali)
+შაბათი : ხატვა (romelic ginda) - chemi naxatebi sagebavebit gadavitano did formatebze = gayidvas)
+კვირა: C გავაგრძელო
 
 555134168 რუსლანი
-         
+
+deviant art ზე ამბობ ალბათ მარა არარის მანდ არაფერი დაქირავების ფუნქცია
+parolebi ჩავიწერო ყველაფრის ფურცელზე (შევიდე გამოვიდე დავტესტო)
+ვოლეტები გავაკეთო. 
+ნფტ ებზე ვიჩალიჩო. 
